@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "marklordlane/vat-calculator-demo"
+ registry = "marklordlane/vat-calculator"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
